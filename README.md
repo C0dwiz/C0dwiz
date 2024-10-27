@@ -19,7 +19,7 @@
 
 - Highly experienced with: **Docker**, and **CI/CD**
 
-- Languages: Bahasa Indonesia, Bahasa Melayu, English, and 日本語
+- Languages: Russian, English, and 日本語
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C0dwiz&layout=pie&hide_border=true&langs_count=5&theme=transparent&title_color=539BF5&text_color=ADBAC7&text_bold=true" align=right />
 <br/>
