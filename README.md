@@ -15,7 +15,7 @@
 
 - Proficient in: **GNU/Linux** and **FreeBSD**
 
-- Skilled in: **Python**, **Rust**, **Golang**
+- Skilled in: **Python**, **C++**, **Haskell**
 
 - Highly experienced with: **Docker**, and **CI/CD**
 
