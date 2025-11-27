@@ -54,7 +54,8 @@ haskell = "Haskell" <|> "Type Safety" <|> "Pure FP"
 | | |
 |:---:|:---:|
 | **Languages** | **Stats** |
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C0dwiz&layout=compact&hide_border=true&theme=radical&title_color=0175C2&bg_color=0D1117&hide=html,css,javascript" /> | <img src="https://github-readme-stats.vercel.app/api?username=C0dwiz&show_icons=true&theme=radical&hide_border=true&title_color=0175C2&bg_color=0D1117" /> |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c0dwiz&layout=compact&hide_border=true&theme=radical&title_color=0175C2&bg_color=0D1117" /> | <img src="https://github-readme-stats.vercel.app/api?username=C0dwiz&show_icons=true&theme=radical&hide_border=true&title_color=0175C2&bg_color=0D1117" /> |
+
 
 </div>
 
