@@ -14,8 +14,8 @@ class Developer {
   final String name = 'C0dWiz';
   final String location = 'Russia 🇷🇺';
   final List<String> languages = ['Dart', 'Haskell'];
-  final List<String> focus = ['Flutter', 'Cross-Platform', 'UI/UX', 'teledram-bot', 'web'];
-  
+  final List<String> focus = ['Flutter', 'Cross-Platform', 'UI/UX', 'telegram-bot', 'web'];
+
   void build() {
     print('🎯 Building beautiful apps with Dart & Flutter');
   }
@@ -54,8 +54,7 @@ haskell = "Haskell" <|> "Type Safety" <|> "Pure FP"
 | | |
 |:---:|:---:|
 | **Languages** | **Stats** |
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c0dwiz&layout=compact&hide_border=true&theme=radical&title_color=0175C2&bg_color=0D1117" /> | <img src="https://github-readme-stats.vercel.app/api?username=C0dwiz&show_icons=true&theme=radical&hide_border=true&title_color=0175C2&bg_color=0D1117" /> |
-
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c0dwiz&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&hide_title=false&langs_count=100&layout=compact" /> | <img src="https://github-readme-stats.vercel.app/api?username=c0dwiz&count_private=true&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&hide_title=true " /> |
 
 </div>
 
@@ -72,6 +71,7 @@ haskell = "Haskell" <|> "Type Safety" <|> "Pure FP"
 ### Web Backend
 - **Web Services** - Backend development with Dart and Python
 - **API Development** - RESTful and GraphQL APIs
+- **[Dart Chart Generator API](https://github.com/C0dwiz/chart_server_dart)** - Dynamically generates and serves customizable bar chart images (PNG format)
 
 ### Haskell Libraries
 - **[Configurator](https://github.com/C0dwiz/Configurator)** - Type-safe configuration library
@@ -80,7 +80,8 @@ haskell = "Haskell" <|> "Type Safety" <|> "Pure FP"
 
 ### Developer Tools
 - **[aassh](https://github.com/C0dwiz/aassh)** - SSH connection manager
-- **[autodi](https://github.com/C0dwiz/autodi)** - Dependency injection container
+- **[autodi](https://github.com/C0dwiz/autodi)** - Dependency injection container python 
+- **[DRTDI](https://github.com/C0dwiz/drtdi)** - Lightweight, high-performance dependency injection container for Dart
 
 ## 🏆 Achievements
 
